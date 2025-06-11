@@ -48,4 +48,4 @@ This project uses YOLOv5 pre-trained models for object detection, fine-tuned for
 
 ## License
 
-This project is open source and available under the MIT License. 
+This project is open source and available under the MIT License.
